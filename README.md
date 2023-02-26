@@ -3,7 +3,9 @@ This dataset gives some information about U.S college. Dataset has 777 rows and 
 
 
 Information about columns:
+
 Private A factor with levels No and Yes indicating private or public university
+
 Apps Number of applications received
 Accept Number of applications accepted
 Enroll Number of new students enrolled
